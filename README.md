@@ -1,6 +1,6 @@
 # opennext
 
-Task management in GitHub will be used as follows:
+Task management within "Projects" will be used as follows:
   1. add note and convert to issue (title and if needed description)
   2. assign issue to at least one person (person may need to register first...)
   3. assign label - low, medium, high priority
