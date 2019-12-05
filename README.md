@@ -1,4 +1,4 @@
-![Logo-full-black.png](.\img\Logo-full-black.png)
+![Logo-full-black.png](./img/Logo-full-black.png)
 
 ## Who we are
 
